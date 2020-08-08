@@ -1,2 +1,2 @@
-# Home-Automation
+# Home Automation with NodeMCU
 IoT
